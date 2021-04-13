@@ -3,11 +3,11 @@
 Bitbucket pipelines does not allow you to use dot notation in variables. So I created my own elastic search docker image to include the discovery type.
 
 ## Version
-* Elasticsearch 7.1.1
+* Elasticsearch 7.x.x
 
 ## Repos
-* https://bitbucket.org/lionslair/elasticsearch-bitbucket-pipelines
-*
+* https://bitbucket.org/lionslair/elasticsearch-bitbucket-pipelines (originally)
+* https://github.com/empeje/elasticsearch-bitbucket
 
 
 ## Test and build
